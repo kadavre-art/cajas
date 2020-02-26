@@ -1,0 +1,56 @@
+body{
+    background-color: olivedrab;
+}
+
+.padre{
+    margin: auto;
+    width: 800px;
+    height: 600px;
+    background-color: orange;
+    margin-top: 60px;    
+}
+
+.cajita1{
+    float: left;
+    width: 350px;
+    height: 280px;
+    background-color: orangered;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+.mini1{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: rebeccapurple;
+    margin-top: 35px;
+    margin-left: 70px;
+}
+
+.cajita2{
+    float: right;
+    width: 350px;
+    height: 280px;
+    background-color: skyblue;
+    margin-top: 5px;
+    margin-right: 25px;    
+}
+
+.cajita3{
+    float: left;
+    width: 350px;
+    height: 280px;
+    background-color: black;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+.cajita4{
+    float: right;
+    width: 350px;
+    height: 280px;
+    background-color: red;
+    margin-top: 5px;
+    margin-right: 25px; 
+}
